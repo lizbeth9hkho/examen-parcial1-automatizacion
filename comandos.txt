@@ -1,0 +1,9 @@
+git init - Inicializa un repositorio Git.
+
+git add - Agrega archivos al área de preparación.
+
+git commit - Guarda cambios en el historial.
+
+git push - Envía cambios al repositorio remoto.
+
+git pull - Descarga y actualiza cambios desde el repositorio remoto.
